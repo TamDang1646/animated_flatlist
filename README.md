@@ -1,6 +1,6 @@
 
 ### Animated FlatList
-![](https://github.com/TamDang1646/animated_flatlist/blob/master/assets/gif/animated_flatlist.gif)https://github.com/TamDang1646/animated_flatlist/blob/master/assets/gif/animated_flatlist.gif)
+<img width="375" height="700" src="https://github.com/TamDang1646/animated_flatlist/blob/master/assets/gif/animated_flatlist.gif" />
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
