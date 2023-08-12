@@ -1,9 +1,9 @@
 
 ### Animated FlatList with Reanimated
-<img width="300" height="300" src="./assets/gif/animated_flatlist_1.gif" />
+<img width="300" height="600" src="./assets/gif/animated_flatlist_1.gif" />
 
-### Animated FlatList with Reanimated
-<img width="300" height="300" src="./assets/gif/animated_flatlist_2.gif" />
+### Animated FlatList with RNAnimated
+<img width="300" height="600" src="./assets/gif/animated_flatlist_2.gif" />
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
