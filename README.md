@@ -1,3 +1,7 @@
+
+### Animated FlatList
+<img width="375" height="700" src="https://github.com/TamDang1646/animated_flatlist/blob/master/assets/gif/animated_flatlist.gif" />
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -71,7 +75,6 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 # Learn More
 
 To learn more about React Native, take a look at the following resources:
-
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
